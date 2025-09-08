@@ -51,8 +51,8 @@
         <mxCell id="LpWq-T_lY3MLTR3QjL6q-13" value="一级菜单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LpWq-T_lY3MLTR3QjL6q-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="208" width="50" height="30" as="geometry" />
+        <mxCell id="LpWq-T_lY3MLTR3QjL6q-14" value="二级菜单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="208" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
