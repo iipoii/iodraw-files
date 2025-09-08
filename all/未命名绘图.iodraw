@@ -38,7 +38,7 @@
         <mxCell id="LpWq-T_lY3MLTR3QjL6q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LpWq-T_lY3MLTR3QjL6q-2" target="LpWq-T_lY3MLTR3QjL6q-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpWq-T_lY3MLTR3QjL6q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LpWq-T_lY3MLTR3QjL6q-6">
+        <mxCell id="LpWq-T_lY3MLTR3QjL6q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LpWq-T_lY3MLTR3QjL6q-18" target="LpWq-T_lY3MLTR3QjL6q-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="300" as="sourcePoint" />
             <Array as="points">
@@ -55,7 +55,7 @@
           <mxGeometry x="100" y="208" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpWq-T_lY3MLTR3QjL6q-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="250" width="100" height="100" as="geometry" />
+          <mxGeometry x="450" y="265" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
