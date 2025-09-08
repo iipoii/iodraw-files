@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpWq-T_lY3MLTR3QjL6q-21" value="否定确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LpWq-T_lY3MLTR3QjL6q-20">
+        <mxCell id="LpWq-T_lY3MLTR3QjL6q-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;取消&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LpWq-T_lY3MLTR3QjL6q-20">
           <mxGeometry x="-0.0916" y="3" relative="1" as="geometry">
             <mxPoint x="1" y="-13" as="offset" />
           </mxGeometry>
