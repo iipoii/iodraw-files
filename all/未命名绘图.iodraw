@@ -45,7 +45,6 @@
             <Array as="points">
               <mxPoint x="620" y="300" />
               <mxPoint x="620" y="370" />
-              <mxPoint x="310" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
