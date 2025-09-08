@@ -83,9 +83,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpWq-T_lY3MLTR3QjL6q-27" value="修改成功时，清空界面缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LpWq-T_lY3MLTR3QjL6q-26">
+        <mxCell id="LpWq-T_lY3MLTR3QjL6q-27" value="修改成功时，清空界面缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LpWq-T_lY3MLTR3QjL6q-26">
           <mxGeometry x="-0.0991" relative="1" as="geometry">
-            <mxPoint x="-72" y="-10" as="offset" />
+            <mxPoint x="-42" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpWq-T_lY3MLTR3QjL6q-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改结果与信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
