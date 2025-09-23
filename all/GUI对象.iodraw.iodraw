@@ -123,7 +123,7 @@
         <mxCell id="TseCyAoohvA3NmxWA5CH-43" value="SELECT_DATA_SOURCE" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TseCyAoohvA3NmxWA5CH-40">
           <mxGeometry y="60" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="TseCyAoohvA3NmxWA5CH-44" value="SEND_DATA" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TseCyAoohvA3NmxWA5CH-40">
+        <mxCell id="TseCyAoohvA3NmxWA5CH-44" value="GOTO_SELECTED_PAGE" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TseCyAoohvA3NmxWA5CH-40">
           <mxGeometry y="86" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
