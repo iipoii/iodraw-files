@@ -138,6 +138,11 @@
         <mxCell id="TseCyAoohvA3NmxWA5CH-5" value="GET_DATA_FROM_SOURCE" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TseCyAoohvA3NmxWA5CH-0">
           <mxGeometry y="112" width="200" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="TseCyAoohvA3NmxWA5CH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TseCyAoohvA3NmxWA5CH-0" source="TseCyAoohvA3NmxWA5CH-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TseCyAoohvA3NmxWA5CH-24" value="REFRESH_DATA" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TseCyAoohvA3NmxWA5CH-0">
           <mxGeometry y="138" width="200" height="26" as="geometry" />
         </mxCell>
@@ -145,7 +150,7 @@
           <mxGeometry y="164" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TseCyAoohvA3NmxWA5CH-7" value="EDIT_WINDOW" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="730" width="160" height="138" as="geometry">
+          <mxGeometry x="130" y="740" width="160" height="138" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
